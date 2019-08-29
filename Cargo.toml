@@ -14,7 +14,7 @@ readme = "README.md"
 
 keywords = []
 
-categories = ["cryptography::cryptocurrencies"]
+categories = ["cryptography"]
 
 license = "GPL-3.0+"
 
