@@ -1,0 +1,21 @@
+[package]
+name = "ntpsec"
+version = "0.1.0"
+authors = ["Colin Moore <colin@moore.one>"]
+edition = "2018"
+
+description = "ntpsec"
+
+documentation = "https://ntpsec-rs.github.io/documentation"
+homepage = "https://ntpsec-rs.github.io"
+repository = "https://github.com/NTPsec-rs/ntpsec"
+
+readme = "README.md"
+
+keywords = []
+
+categories = ["cryptography::cryptocurrencies"]
+
+license = "GPL-3.0+"
+
+[dependencies]
